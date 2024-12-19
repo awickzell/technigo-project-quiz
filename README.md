@@ -22,3 +22,8 @@ The command below is a combination of installing dependencies, opening up the pr
 ```bash
 npm i && code . && npm run dev
 ```
+https://arvidsfilmquiz.netlify.app/
+
+
+
+Jag började med att be ChatGPT att skapa ett utkast till ett filmquiz. Jag fick sedan anpassa quizet för att det skulle uppfylla kraven (exempelvis användandet av "rullgardins-knapp"). Att skapa en progress bar var roligt då jag aldrig gjort det tigare. Jag stötte inte på några större problem, förutom vad gäller layout, där det största problemet var responsivitet, att få sidan att se bra ut både på dator och mindre skärmar. 

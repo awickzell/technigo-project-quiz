@@ -1,0 +1,497 @@
+[
+  {
+    "question": "Vem regisserade filmen Jaws från 1975?",
+    "options": [
+      "Steven Spielberg",
+      "George Lucas",
+      "Sofia Coppola",
+      "Patty Jenkins"
+    ],
+    "correctAnswer": "Steven Spielberg",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken film vann Oscar för bästa film år 1994?",
+    "options": [
+      "Forrest Gump",
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "Lion King"
+    ],
+    "correctAnswer": "Forrest Gump",
+    "difficulty": 2
+  },
+  {
+    "question": "Vem spelade huvudrollen i filmen Gladiator?",
+    "options": [
+      "Brad Pitt",
+      "Russell Crowe",
+      "Tom Cruise",
+      "Leonardo DiCaprio"
+    ],
+    "correctAnswer": "Russell Crowe",
+    "difficulty": 1
+  },
+  {
+    "question": "Vilken film anses vara den första långfilmen i färg?",
+    "options": [
+      "The Wizard of Oz",
+      "Gone with the Wind",
+      "The Jazz Singer",
+      "Becky Sharp"
+    ],
+    "correctAnswer": "Becky Sharp",
+    "difficulty": 3
+  },
+  {
+    "question": "Vem regisserade trilogin Sagan om Ringen?",
+    "options": [
+      "James Cameron",
+      "Peter Jackson",
+      "Ridley Scott",
+      "Quentin Tarantino"
+    ],
+    "correctAnswer": "Peter Jackson",
+    "difficulty": 1
+  },
+  {
+    "question": "Vilken skådespelare spelade huvudrollen i filmen Cast Away?",
+    "options": [
+      "Tom Hanks",
+      "Johnny Depp",
+      "Bruce Willis",
+      "Robert Downey Jr."
+    ],
+    "correctAnswer": "Tom Hanks",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken film är känd för citatet 'May the Force be with you'?",
+    "options": [
+      "Star Trek: The Motion Picture",
+      "Guardians of the Galaxy vol. I",
+      "Star Wars",
+      "Blade Runner"
+    ],
+    "correctAnswer": "Star Wars",
+    "difficulty": 1
+  },
+  {
+    "question": "Vilken skådespelare spelade rollen som Jack Sparrow?",
+    "options": [
+      "Orlando Bloom",
+      "Johnny Depp",
+      "Brad Pitt",
+      "Tom Hardy"
+    ],
+    "correctAnswer": "Johnny Depp",
+    "difficulty": 1
+  },
+  {
+    "question": "Vem regisserade filmen Inception?",
+    "options": [
+      "Christopher Nolan",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "James Cameron"
+    ],
+    "correctAnswer": "Christopher Nolan",
+    "difficulty": 1
+  },
+  {
+    "question": "Vilken film handlar om en hajattack vid en strandstad?",
+    "options": [
+      "The Meg",
+      "Deep Blue Sea",
+      "Jaws",
+      "Open Water"
+    ],
+    "correctAnswer": "Jaws",
+    "difficulty": 1
+  },
+  {
+    "question": "Vilken skådespelare har spelat James Bond flest gånger?",
+    "options": [
+      "Sean Connery",
+      "Roger Moore",
+      "Daniel Craig",
+      "Pierce Brosnan"
+    ],
+    "correctAnswer": "Roger Moore",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film är regisserad av Quentin Tarantino och handlar om ett bankrån?",
+    "options": [
+      "Jackie Brown",
+      "Reservoir Dogs",
+      "Django Unchained",
+      "Pulp Fiction"
+    ],
+    "correctAnswer": "Reservoir Dogs",
+    "difficulty": 1
+  },
+  {
+    "question": "Vem regisserade Titanic från 1997?",
+    "options": [
+      "Ridley Scott",
+      "James Cameron",
+      "Steven Spielberg",
+      "Peter Jackson"
+    ],
+    "correctAnswer": "James Cameron",
+    "difficulty": 1
+  },
+  {
+    "question": "Vilken film introducerade karaktären 'Darth Vader'?",
+    "options": [
+      "Star Wars",
+      "Star Wars: The Empire Strikes Back",
+      "Star Wars: Return of the Jedi",
+      "Star Wars: The Phantom Menace"
+    ],
+    "correctAnswer": "Star Wars",
+    "difficulty": 1
+  },
+  {
+    "question": "I vilken film från 1999 bekämpar agenter intergalaktiska hot?",
+    "options": [
+      "The Matrix",
+      "Men in Black",
+      "The Fifth Element",
+      "Starship Troopers"
+    ],
+    "correctAnswer": "Men in Black",
+    "difficulty": 1
+  },
+  {
+    "question": "Vem spelade huvudrollen i filmen The Terminator?",
+    "options": [
+      "Arnold Schwarzenegger",
+      "Bruce Willis",
+      "Tom Cruise",
+      "Will Smith"
+    ],
+    "correctAnswer": "Arnold Schwarzenegger",
+    "difficulty": 1
+  },
+  {
+    "question": "I vilken film spelar Meryl Streep en kokboksexpert?",
+    "options": [
+      "The Devil Wears Prada",
+      "Julie & Julia",
+      "Out of Africa",
+      "Kramer vs. Kramer"
+    ],
+    "correctAnswer": "Julie & Julia",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film regisserades av Ridley Scott och handlar om en astronaut som fastnar på Mars?",
+    "options": [
+      "Gladiator",
+      "Alien",
+      "The Martian",
+      "Blade Runner"
+    ],
+    "correctAnswer": "The Martian",
+    "difficulty": 1
+  },
+  {
+    "question": "Vem spelade huvudrollen i filmen The Social Network?",
+    "options": [
+      "Jesse Eisenberg",
+      "Andrew Garfield",
+      "Justin Timberlake",
+      "Armie Hammer"
+    ],
+    "correctAnswer": "Jesse Eisenberg",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken regissör är känd för filmen The Grand Budapest Hotel?",
+    "options": [
+      "Martin Scorsese",
+      "Wes Anderson",
+      "David Fincher",
+      "Guillermo del Toro"
+    ],
+    "correctAnswer": "Wes Anderson",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken film vann Oscar för bästa film år 1991?",
+    "options": [
+      "Dances with Wolves",
+      "The Silence of the Lambs",
+      "Goodfellas",
+      "Misery"
+    ],
+    "correctAnswer": "The Silence of the Lambs",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken film regisserades av Tim Burton och är känd för sin gotiska stil?",
+    "options": [
+      "Beetlejuice",
+      "Edward Scissorhands",
+      "Batman",
+      "Big Fish"
+    ],
+    "correctAnswer": "Edward Scissorhands",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken film handlar om en ung pojke som blir vän med en robot?",
+    "options": [
+      "Big Hero 6",
+      "WALL-E",
+      "The Iron Giant",
+      "Robots"
+    ],
+    "correctAnswer": "The Iron Giant",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film regisserades av Francis Ford Coppola och handlar om en maffiafamilj?",
+    "options": [
+      "Goodfellas",
+      "Scarface",
+      "The Godfather",
+      "Casino"
+    ],
+    "correctAnswer": "The Godfather",
+    "difficulty": 1
+  },
+  {
+    "question": "Vilken film från 2019 handlar karraktären Arthur Fleck som slåss för att förändra sitt öde?",
+    "options": [
+      "Avengers: Endgame",
+      "Joker",
+      "Once Upon a Time in Hollywood",
+      "1917"
+    ],
+    "correctAnswer": "Joker",
+    "difficulty": 2
+  },
+  {
+    "question": "Vem regisserade filmen Schindler's List?",
+    "options": [
+      "Stanley Kubrick",
+      "Martin Scorsese",
+      "Steven Spielberg",
+      "Quentin Tarantino"
+    ],
+    "correctAnswer": "Steven Spielberg",
+    "difficulty": 1
+  },
+  {
+    "question": "I vilken film från 2008 spelade Robert Downey Jr. för första gången karraktären Tony Stark?",
+    "options": [
+      "Iron Man",
+      "The Avengers",
+      "Captain America: Civil War",
+      "Iron Man 2"
+    ],
+    "correctAnswer": "Iron Man",
+    "difficulty": 1
+  },
+  {
+    "question": "Vilken film från 1990 är en skräckklassiker som handlar om en barnfödsel med övernaturliga krafter?",
+    "options": [
+      "Child's Play",
+      "Rosemary's Baby",
+      "The Omen",
+      "The Sixth Sense"
+    ],
+    "correctAnswer": "Rosemary's Baby",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film vann Oscar för bästa film år 2001?",
+    "options": [
+      "A Beautiful Mind",
+      "Gladiator",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "Moulin Rouge!"
+    ],
+    "correctAnswer": "A Beautiful Mind",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken skådespelare spelade huvudrollen i filmen The Revenant?",
+    "options": [
+      "Tom Hardy",
+      "Matthew McConaughey",
+      "Leonardo DiCaprio",
+      "Brad Pitt"
+    ],
+    "correctAnswer": "Leonardo DiCaprio",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken film har Sigourney Weaver huvdrollen?",
+    "options": [
+      "Alien",
+      "The Martian",
+      "Prometheus",
+      "Blade Runner"
+    ],
+    "correctAnswer": "Alien",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken film introducerade karaktären Spider-Man?",
+    "options": [
+      "Iron Man",
+      "The Avengers",
+      "Thor",
+      "Captain America: Civil War"
+    ],
+    "correctAnswer": "Captain America: Civil War",
+    "difficulty": 2
+  },
+  {
+    "question": "Vem regisserade filmen Avatar?",
+    "options": [
+      "James Cameron",
+      "George Lucas",
+      "Christopher Nolan",
+      "Steven Spielberg"
+    ],
+    "correctAnswer": "James Cameron",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken film från 1995 är känd för sitt citat 'Houston, we have a problem'?",
+    "options": [
+      "Apollo 13",
+      "Interstellar",
+      "The Martian",
+      "Gravity"
+    ],
+    "correctAnswer": "Apollo 13",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken film är baserad på en bok av J.R.R. Tolkien och handlar om Bilbo Baggins?",
+    "options": [
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Hobbit: An Unexpected Journey",
+      "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "Harry Potter and the Sorcerer's Stone"
+    ],
+    "correctAnswer": "The Hobbit: An Unexpected Journey",
+    "difficulty": 2
+  },
+  {
+    "question": "Vilken regissör är känd för att ha skapat filmen Blue Velvet?",
+    "options": [
+      "David Lynch",
+      "Martin Scorsese",
+      "Alfred Hitchcock",
+      "Stanley Kubrick"
+    ],
+    "correctAnswer": "David Lynch",
+    "difficulty": 3
+  },
+  {
+    "question": "I vilken film från 1997 spelade Dustin Hoffman en man som genomgår en könskorrigering?",
+    "options": [
+      "Tootsie",
+      "The Graduate",
+      "Rain Man",
+      "Kramer vs. Kramer"
+    ],
+    "correctAnswer": "Tootsie",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film regisserades av Stanley Kubrick och handlar om en mörk, futuristisk framtid?",
+    "options": [
+      "A Clockwork Orange",
+      "2001: A Space Odyssey",
+      "The Shining",
+      "Full Metal Jacket"
+    ],
+    "correctAnswer": "A Clockwork Orange",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film är känd för att ha den första användningen av CGI för att skapa en människoliknande karaktär?",
+    "options": [
+      "The Abyss",
+      "Jurassic Park",
+      "The Matrix",
+      "The Terminator"
+    ],
+    "correctAnswer": "The Abyss",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film regisserades av Federico Fellini och handlar om en filmregissörs kreativ process?",
+    "options": [
+      "8½",
+      "La Dolce Vita",
+      "Fellini's Roma",
+      "Amarcord"
+    ],
+    "correctAnswer": "8½",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film från 2017 var känd för att ha vunnit Oscar för bästa regi och bästa film?",
+    "options": [
+      "La La Land",
+      "Moonlight",
+      "The Shape of Water",
+      "Birdman"
+    ],
+    "correctAnswer": "The Shape of Water",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken regissör är känd för filmen The Seventh Seal som behandlar döden?",
+    "options": [
+      "Ingmar Bergman",
+      "Woody Allen",
+      "Francis Ford Coppola",
+      "Jean-Luc Godard"
+    ],
+    "correctAnswer": "Ingmar Bergman",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film från 1984 handlar om en grupp människor som kämpar mot en övernaturlig mördare i drömmarna?",
+    "options": [
+      "A Nightmare on Elm Street",
+      "The Shining",
+      "The Thing",
+      "Friday the 13th"
+    ],
+    "correctAnswer": "A Nightmare on Elm Street",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film var den första att använda digitala effekter för att skapa en realistisk rymdfarkost?",
+    "options": [
+      "2001: A Space Odyssey",
+      "Star Wars",
+      "Apollo 13",
+      "Star Trek: The Motion Picture"
+    ],
+    "correctAnswer": "2001: A Space Odyssey",
+    "difficulty": 3
+  },
+  {
+    "question": "Vilken film handlar om en ung man som genomgår mental träning för att bli en mästare på en brädspel?",
+    "options": [
+      "The Queen's Gambit",
+      "Searching for Bobby Fischer",
+      "Pawn Sacrifice",
+      "The Dark Knight"
+    ],
+    "correctAnswer": "Pawn Sacrifice",
+    "difficulty": 3
+  }
+]
